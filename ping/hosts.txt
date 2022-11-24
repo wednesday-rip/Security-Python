@@ -1,0 +1,4 @@
+www.google.com
+8.8.8.8
+www.python.org
+192.124.249.5
